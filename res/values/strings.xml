@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LogoActivity!</string>
+    <string name="app_name">游戏拼图</string>
+    <string name="OK">是</string>
+    <string name="NO">否</string>
+    <string name="Return">返回</string>
+    <string name="About">版权所有，感谢试玩！</string>
+    <string name="quit_title">退出游戏</string>
+    <string name="quit_string">是否退出游戏？</string>
+    <string name="setsound">开启/关闭声音</string>
+    <string name="setvolume">放大/减少音量</string>
+	<string name="setstate">声音状态</string>
+      <string name="setshow">音量显示</string>
+        <string name="resetbutton">清空存档</string>
+         <string name="setback">返        回 </string>
+    <string name="readyText">图片打乱中</string>
+    <string name="winText">恭喜您！胜利完成游戏！</string>
+    <string name="level">请选择难度</string>
+    <string name="easy">简单</string>
+    <string name="normal">普通</string>
+    <string name="hard">困难</string>
+	<string name="inputName">请输入您的大名</string>
+	<string name="inputText">打破纪录啦！作为高手高手高高手，请一定留下您的大名！</string>
+	<string name="complete">完成</string>
+	<string name="reset">清空存档</string>
+	<string name="resetText">排行榜已重置。</string>
+	<string name="selectgame">请选择图片</string>
+</resources>

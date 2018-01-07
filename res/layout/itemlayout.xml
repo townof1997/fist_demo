@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/widget28"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+	<AbsoluteLayout android:id="@+id/widget29"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<TextView android:id="@+id/tvDifficulty"
+			android:layout_width="wrap_content" android:layout_height="fill_parent"
+			android:layout_marginTop="10px" android:layout_marginBottom="10px"
+			android:text="初级" android:textSize="18sp" android:textStyle="bold"
+			android:textColor="#ffffff00" android:gravity="left"
+			android:layout_x="10px">
+		</TextView>
+		<TextView android:id="@+id/tvTime" android:layout_width="wrap_content"
+			android:layout_height="fill_parent" android:layout_marginTop="10px"
+			android:layout_marginBottom="10px" android:text="TextView"
+			android:textSize="18sp" android:textStyle="bold" android:textColor="#ffff0000"
+			android:gravity="left" android:layout_x="110px">
+		</TextView>
+		<TextView android:id="@+id/tvName" android:layout_width="wrap_content"
+			android:layout_height="fill_parent" android:layout_marginTop="10px"
+			android:layout_marginBottom="10px" android:text="John"
+			android:textSize="18sp" android:textStyle="bold|italic"
+			android:gravity="left" android:layout_x="210px" android:textColor="#88ffffff">
+		</TextView>
+	</AbsoluteLayout>
+</LinearLayout>
